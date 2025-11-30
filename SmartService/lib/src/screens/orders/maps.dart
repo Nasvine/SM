@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
-import 'package:smart_service/src/models/order_model.dart';
 import 'package:google_places_flutter/google_places_flutter.dart';
+import 'package:smart_service/src/models/order_model.dart';
 import 'package:iconsax/iconsax.dart';
 import 'package:smart_service/src/constants/colors.dart';
 
